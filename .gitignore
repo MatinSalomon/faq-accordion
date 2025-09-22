@@ -70,3 +70,6 @@ public
 
 # VSCode settings
 .vscode/
+
+# Design folder (ignored manually)
+design/
